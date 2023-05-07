@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvin-rv
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Node.js AWS
 - 📫 How to reach me? https://join.skype.com/invite/fsnFk1pZyZpX
 
