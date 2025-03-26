@@ -48,7 +48,7 @@
 - Electron.js  
 
 #### **Mobile Development:**  
-- Flutter, React Native  
+- React Native  
 
 ---
 
